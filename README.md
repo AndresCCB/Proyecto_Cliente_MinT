@@ -1,1 +1,1 @@
-# Proyecto_ClienteMinT
+# Proyecto_Cliente_MinT
